@@ -1,2 +1,4 @@
 # Towards Emotion-enriched Text-to-Motion Generation via LLM-guided Limb-level Emotion Manipulating
-![Emotion-enriched Motion](assets/figure1.pdf)
+<p align="center">
+  <img src="assets/figure1.pdf" alt="Emotion-enriched Motion" width="500">
+</p>
