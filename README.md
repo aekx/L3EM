@@ -2,6 +2,7 @@
 <p align="center">
   <img src="assets/figure1.jpg" alt="introduction of EMTG" width="700">
 </p>
+
 The official implementation of the paper "Towards Emotion-enriched Text-to-Motion Generation via LLM-guided Limb-level Emotion Manipulating" [VIIST](https://dl.acm.org/doi/pdf/10.1145/3664647.3681487) in ACM MM 2024.
 
 ## Abstract
