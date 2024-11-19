@@ -14,5 +14,5 @@ Download data files from google drive
 
 ## Pipeline Overview
 <p align="center">
-  <img src="assets/model.jpg" alt="introduction of EMTG" width="700">
+  <img src="assets/model.jpg" alt="introduction of EMTG" width="1000">
 </p>
